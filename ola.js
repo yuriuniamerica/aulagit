@@ -1,1 +1,2 @@
-console.log ("olá pessoal");
+let nome = "Gervásio";
+console.log (`Olá ${nome}!`);
